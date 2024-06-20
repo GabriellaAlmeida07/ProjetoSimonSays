@@ -13,3 +13,8 @@ O objetivoé seguir com precisão os comandos , o jogador que seguir corretament
 ## Vídeo sobre o projeto
 
 ## Colaboradores
+Gabriella Almeida - 15528121
+
+Samuel Sandoval Bonachela - 13686282
+
+Joao Victor De Bortoli Prado - 13672071
