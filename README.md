@@ -8,6 +8,21 @@ Projeto da disciplina SSC0180 - Eletrônica para Computação, ministrada pelo p
 Inicialmente o jogo começa com um único sinal (led ligado), e a medida que o jogo se estende, essa sequência vai ficando cada vez maior, consequentemente, aumentando a dificuldade e exigindo uma boa memória.
 O objetivoé seguir com precisão os comandos , o jogador que seguir corretamente todos os comandos até o final, sem nenhum erro, vence o jogo, caso o contrário o jogo é reiniciado e, se você estivar em grupo, agora será a vez do próximo participante.
 
+## Componentes utilizados:
+
+| Componente             |  Quantidade   | Especificações    | 
+|:----------------------:|:-------------:|:-----------------:|
+| Arduíno                | 1             | Modelo Uno        |
+| Buzzer                 | 1             |                   |
+| LED                    | 4             | 5mm coloridos     |
+| Resistor               | 4             | 220 ohms          |
+| Resistor               | 1             | 120 ohms          |
+| Protoboard             | 1             |                   |
+| Jumper Macho           | 20            | 20cm              |
+| Botões                 | 4             |                   |
+
+
+
 ## Foto do projeto
 
 ## Vídeo sobre o projeto
