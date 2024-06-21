@@ -1,7 +1,10 @@
 /*
- Simon Says Projeto 2, Eletrônica para Computação
- Prof. Eduardo do Valle Simões 
- Autores:
+Simon Says Projeto 2, Eletrônica para Computação
+Prof. Eduardo do Valle Simões 
+Autores: 
+Gabriela Almeida - 15528121
+Samuel Sandoval Bonachela - 13686282
+João Victor De Bortoli Prado - 13672071
 */
 
 #define NOTE_B0 31
