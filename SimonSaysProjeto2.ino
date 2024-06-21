@@ -1,6 +1,7 @@
 /*
  Simon Says Projeto 2, Eletrônica para Computação
  Prof. Eduardo do Valle Simões 
+ Autores:
 */
 
 #define NOTE_B0 31
