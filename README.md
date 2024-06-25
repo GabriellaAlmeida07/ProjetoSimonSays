@@ -8,6 +8,12 @@ Projeto da disciplina SSC0180 - Eletrônica para Computação, ministrada pelo p
 Inicialmente o jogo começa com um único sinal (led ligado), e a medida que o jogo se estende, essa sequência vai ficando cada vez maior, consequentemente, aumentando a dificuldade e exigindo uma boa memória.
 O objetivo é seguir com precisão os comandos, o jogador que seguir corretamente todos os comandos até o final, sem nenhum erro, vence o jogo, caso o contrário o jogo é reiniciado e, se você estivar em grupo, agora será a vez do próximo participante.
 
+
+## Fotos do projeto
+![cd66b909-963f-4afd-b2e3-6656d2111568](https://github.com/GabriellaAlmeida07/ProjetoSimonSays/assets/135055000/f4377e5f-e071-4db8-9764-d4517b741d29)
+
+![7e735ff4-0ed4-441f-ae63-a2b7d19e1046](https://github.com/GabriellaAlmeida07/ProjetoSimonSays/assets/135055000/1e3dc8b1-ae6f-4b50-8a36-b9e62f8ee6d9)
+
 ## Componentes utilizados:
 
 | Componente             |  Quantidade   | Especificações    | 
@@ -22,8 +28,6 @@ O objetivo é seguir com precisão os comandos, o jogador que seguir corretament
 | Botões                 | 4             |                   |
 
 
-
-## Foto do projeto
 
 ## Vídeo do projeto
 
