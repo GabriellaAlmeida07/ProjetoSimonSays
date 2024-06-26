@@ -16,16 +16,16 @@ O objetivo é seguir com precisão os comandos, o jogador que seguir corretament
 
 ## Componentes utilizados:
 
-| Componente             |  Quantidade   | Especificações    | 
-|:----------------------:|:-------------:|:-----------------:|
-| Arduíno                | 1             | Modelo Uno        |
-| Buzzer                 | 1             |                   |
-| LED                    | 4             | 5mm coloridos     |
-| Resistor               | 4             | 220 ohms          |
-| Resistor               | 1             | 120 ohms          |
-| Protoboard             | 1             |                   |
-| Jumper Macho           | 20            | 20cm              |
-| Botões                 | 4             |                   |
+| Componente             |  Quantidade   | Especificações    |Preço (unidade)|
+|:----------------------:|:-------------:|:-----------------:|:-------------:|
+| Arduíno                | 1             | Modelo Uno        | R$108,00      |
+| Buzzer                 | 1             |                   | R$9,50        |
+| LED                    | 4             | 5mm coloridos     | R$0,50        |
+| Resistor               | 4             | 220 ohms          | R$0,07        |
+| Resistor               | 1             | 120 ohms          | R$1,90        |
+| Protoboard             | 1             |                   | R$39,10       |
+| Jumper Macho           | 20            | 20cm              | R$15,00 (kit) |
+| Botões                 | 4             |                   | R$1,80        |
 
 
 
@@ -39,3 +39,6 @@ Gabriella Almeida - 15528121
 Samuel Sandoval Bonachela - 13686282
 
 Joao Victor De Bortoli Prado - 13672071
+
+## Créditos
+Fonte utilizada: [www.viralsciencecreativity.com](https://www.viralsciencecreativity.com/post/arduino-led-memory-game)
